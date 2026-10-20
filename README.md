@@ -1,5 +1,9 @@
 # PoE 2 Reroller
 
+<img width="975" height="1085" alt="image" src="https://github.com/user-attachments/assets/e8b5c600-228c-4c1e-872b-64d0e4b5f102" />
+
+**DOWNLOAD HERE: https://github.com/aakessonjohan-jpg/Reroller/releases/download/v1.2.13/PoE2Reroller.zip**
+
 ## English first — scroll down for Swedish / Scrolla ner för svenska
 
 [English](#english) | [Svenska](#svenska)
